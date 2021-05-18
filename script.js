@@ -1,3 +1,4 @@
+//*Im doing a comment to this file
 var scene, camera, renderer, mesh;
 
 init();
