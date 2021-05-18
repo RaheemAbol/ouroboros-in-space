@@ -2,4 +2,4 @@
 practicing my three.js skills
 https://raheemabol.github.io/ouroboros-in-space/
 
-Check it out baby!!
+Click on the image to adjust the camera view!
