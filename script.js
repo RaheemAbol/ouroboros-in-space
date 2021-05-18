@@ -1,4 +1,5 @@
 //*Im doing a comment to this file
+//!I'm the second comment
 var scene, camera, renderer, mesh;
 
 init();
