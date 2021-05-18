@@ -44,7 +44,13 @@ function init(){
   
   scene.background = cubemap;
   
-  const material = new THREE.MeshStandardMaterial({color:0xffff00, metalness:0.95, roughness:0.01, emissive: 0x222222, envMap: cubemap});
+  const material = new THREE.MeshStandardMaterial({
+    color: 0x12ddfc,
+    metalness: 0.95,
+    roughness: 0.01,
+    emissive: 0x222222,
+    envMap: cubemap,
+  });
   
   //Add meshes here
  const geometry1 = new THREE.CylinderGeometry(0,3,7,30);
